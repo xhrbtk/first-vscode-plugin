@@ -9,6 +9,7 @@
 	"categories": [
 		"Other"
 	],
+	"publisher": "xhrbtk",
 	"activationEvents": [
         "onCommand:hello-world.helloWorld"
 	],
